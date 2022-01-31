@@ -1,0 +1,6 @@
+22:29:45.587 [TestNG-test=Test-2] INFO  TestAutomation.utilities.Base - Logged into the home page
+22:29:45.904 [TestNG-test=Test-2] INFO  TestAutomation.utilities.Base - Web Browser Closed
+22:45:31.470 [TestNG-test=Test-1] INFO  TestAutomation.utilities.Base - Executed test message
+22:45:38.484 [TestNG-test=Test-2] INFO  TestAutomation.utilities.Base - Web Browser initiated
+22:45:38.569 [TestNG-test=Test-2] INFO  TestAutomation.utilities.Base - Navigated to SignIn Page
+22:45:40.168 [TestNG-test=Test-2] INFO  TestAutomation.utilities.Base - Logged into the home page
